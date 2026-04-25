@@ -13,11 +13,11 @@
 
 ## 💼 About Me
 
-I'm a student of **Licenciatura en Tecnología Digital** at **Universidad Torcuato Di Tella**, with a strong focus on **programming, data analysis, and building real-world digital solutions**. :contentReference 
+I'm a student of **Licenciatura en Tecnología Digital** at **Universidad Torcuato Di Tella**, with a strong focus on **programming, data analysis, and building real-world digital solutions**.
 
 I enjoy working at the intersection of **technology, data, and product**, turning messy information into structured, usable systems.
 
-- 🎓 Currently in 4rd year at UTDT
+- 🎓 Currently in 4th year at UTDT
 - 📊 Interested in **data, algorithms, and scalable systems**
 - ⚙️ Experience working with **real-world data pipelines and enrichment systems**
 - 🌍 Based in Buenos Aires / Vienna (Exchange)
@@ -38,9 +38,12 @@ Worked on an **entity intelligence platform** handling large-scale data ingestio
 - Collaborated with engineering teams working on **LLM-based enrichment and signal detection systems**  
 
 ---
+
 ## 🚀 Projects
 
-### 📊 SubTrack — Subscription Tracker
+### 📊 SubTrack — Subscription Tracker  
+🔗 https://sub-tracking.vercel.app  
+
 > Web app to manage subscriptions and analyze recurring expenses  
 
 - Dashboard with **monthly spend, yearly projections, and upcoming renewals**
@@ -51,7 +54,9 @@ Worked on an **entity intelligence platform** handling large-scale data ingestio
 
 ---
 
-### 📅 Horarios UTDT — Schedule Optimizer
+### 📅 Horarios UTDT — Schedule Optimizer  
+🔗 https://horariosutdt.vercel.app  
+
 > Tool to generate optimal class schedules with constraints  
 
 - Handles **hundreds of possible combinations**
@@ -62,7 +67,7 @@ Worked on an **entity intelligence platform** handling large-scale data ingestio
 
 ---
 
- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -92,6 +97,7 @@ Worked on an **entity intelligence platform** handling large-scale data ingestio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 ## 📊 What I’m Interested In
