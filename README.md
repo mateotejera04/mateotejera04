@@ -120,8 +120,6 @@ I'm always open to new opportunities, projects, or collaborations.
 
 <div align="center">
 
-<sub>Trying to build useful things, one project at a time.</sub>
-
 </div>
 
 <div align="center">
