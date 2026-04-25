@@ -123,3 +123,9 @@ I'm always open to new opportunities, projects, or collaborations.
 <sub>Trying to build useful things, one project at a time.</sub>
 
 </div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mateotejera04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+
+</div>
