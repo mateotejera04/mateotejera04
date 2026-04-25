@@ -27,15 +27,17 @@ I enjoy working at the intersection of **technology, data, and product**, turnin
 ## 🚀 Experience
 
 ### 🧠 The Network — Operations / Data
-Worked on an **entity intelligence platform** handling large-scale data from multiple sources.
 
-- Processed and validated structured profiles ("signals") using automated enrichment systems  
-- Worked with **data pipelines, APIs, and web scraping sources** (LinkedIn, Crunchbase, etc.)  
-- Ensured **data quality and consistency** across thousands of profiles  
-- Contributed ideas to improve internal workflows and data processing efficiency  
+Worked on an **entity intelligence platform** handling large-scale data ingestion, enrichment, and signal detection.
+
+- Processed and validated structured profiles ("signals") using automated enrichment pipelines  
+- Worked with **multi-source data ingestion** (LinkedIn, Crunchbase, Twitter APIs & scraping systems)  
+- Ensured **data quality, consistency, and validation** across thousands of entities  
+- Used internal tools to manage **observations → facts → materialized entities pipelines**  
+- Contributed to improving **data workflows and operational efficiency**  
+- Collaborated with engineering teams working on **LLM-based enrichment and signal detection systems**  
 
 ---
-
 ## 🚀 Projects
 
 ### 📊 SubTrack — Subscription Tracker
@@ -60,7 +62,7 @@ Worked on an **entity intelligence platform** handling large-scale data from mul
 
 ---
 
-## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,11 +76,22 @@ Worked on an **entity intelligence platform** handling large-scale data from mul
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Data
+### Data & Systems
+![APIs](https://img.shields.io/badge/APIs-0052CC?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-4CAF50?style=for-the-badge)
+![Data Processing](https://img.shields.io/badge/Data_Processing-FF9800?style=for-the-badge)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-9C27B0?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data_Validation-607D8B?style=for-the-badge)
+
+### AI & Advanced Concepts
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge)
+![Entity Resolution](https://img.shields.io/badge/Entity_Resolution-3F51B5?style=for-the-badge)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-009688?style=for-the-badge)
+
+### Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 ---
 
 ## 📊 What I’m Interested In
