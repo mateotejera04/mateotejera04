@@ -13,7 +13,7 @@
 
 ## 💼 About Me
 
-I'm a student of **Licenciatura en Tecnología Digital** at **Universidad Torcuato Di Tella**, with a strong focus on **programming, data analysis, and building real-world digital solutions**. :contentReference[oaicite:0]{index=0}  
+I'm a student of **Licenciatura en Tecnología Digital** at **Universidad Torcuato Di Tella**, with a strong focus on **programming, data analysis, and building real-world digital solutions**. :contentReference 
 
 I enjoy working at the intersection of **technology, data, and product**, turning messy information into structured, usable systems.
 
