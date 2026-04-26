@@ -107,17 +107,7 @@ Worked on an **entity intelligence platform** handling large-scale data ingestio
 - AI + real-world applications  
 - Building tools that people actually use  
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/mateotejera04/mateotejera04/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
