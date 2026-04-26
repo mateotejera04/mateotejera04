@@ -109,6 +109,16 @@ Worked on an **entity intelligence platform** handling large-scale data ingestio
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/mateotejera04/mateotejera04/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always open to new opportunities, projects, or collaborations.
